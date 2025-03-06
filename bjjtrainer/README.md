@@ -34,3 +34,5 @@ SCREENSHOTS
 
 ## Anki Features
 
+NOTE: The examples below are from MacOS
+
